@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997012376689",
+    "project_id": "logindemo-43c8d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997012376689:android:d5c41b8cd0b43466",
+        "android_client_info": {
+          "package_name": "com.example.mfahad.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997012376689-rsigql0r02pkk256u47sfvaft1j5palf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "997012376689-5p5gsuu44o6cov7hcln9tot3h7au1mee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mfahad.googlelogin",
+            "certificate_hash": "4c53a11b7e1d9c01a4db65b3076af05c313c6831"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPlysByLmrkbnouY3nzbZf7iY5zfbvju8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
